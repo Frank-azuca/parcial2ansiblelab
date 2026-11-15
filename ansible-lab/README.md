@@ -1,4 +1,4 @@
-# Ansible Lab: automatización de contenedores Docker con Ansible
+# Parcial 2 - Ansible Lab: automatización de contenedores Docker con Ansible
 
 ## Objetivo de la práctica
 

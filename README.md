@@ -1,4 +1,4 @@
-# Ansible Lab
+# Parcial 2 - Ansible Lab
 
 Práctica de Ansible: administrar dos servidores Ubuntu (contenedores Docker) con Ansible usando `ansible_connection=docker`.
 
